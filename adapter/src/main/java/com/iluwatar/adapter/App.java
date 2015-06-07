@@ -10,7 +10,6 @@ package com.iluwatar.adapter;
  * The Adapter (GnomeEngineer) converts the interface of the target class
  * (GoblinGlider) into a suitable one expected by the client
  * (GnomeEngineeringManager).
- * 
  */
 public class App {
 
