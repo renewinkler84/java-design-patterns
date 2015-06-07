@@ -11,8 +11,8 @@ import java.util.List;
  */
 public class AlchemistShop {
 
-	private List<Potion> topShelf;
-	private List<Potion> bottomShelf;
+	List<Potion> topShelf;
+	List<Potion> bottomShelf;
 
 	public AlchemistShop() {
 		topShelf = new ArrayList<>();
